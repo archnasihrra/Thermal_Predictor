@@ -2,6 +2,9 @@
 
 This application predicts building occupant thermal comfort based on architectural and environmental parameters using a machine learning model (Gradient Boosting).
 
+## 🌐 Live Demo
+Check out the deployed application: **[Thermal Comfort Predictor](https://thermalprediction.streamlit.app/)**
+
 ## 📂 Project Structure
 
 - **`app.py`**: The main application file (Streamlit). Run this to launch the interface.
