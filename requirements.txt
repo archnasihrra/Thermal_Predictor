@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+scipy==1.9.3
